@@ -33,7 +33,7 @@
     
 <head>
         <meta charset="utf-8" />
-        <title>Hospital Management System -A Super Responsive Information System</title>
+        <title>Care+ Management System -A Super Responsive Information System</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="" name="description" />
         <meta content="" name="MartDevelopers" />
@@ -89,7 +89,7 @@
                                 
                                 <div class="text-center w-75 m-auto">
                                     <a href="index.php">
-                                        <span><img src="assets/images/logo-dark.png" alt="" height="22"></span>
+                                        <span><img src="assets/images/dark.png" alt="" height="22"></span>
                                     </a>
                                     <p class="text-muted mb-4 mt-3">Enter your email address and password to access Doctor panel.</p>
                                 </div>
